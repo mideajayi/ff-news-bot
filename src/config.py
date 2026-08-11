@@ -16,7 +16,7 @@ class Settings:
     ff_calendar_url: str = os.getenv(
         "FF_CALENDAR_URL", "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
     )
-    digest_hour: int = int(os.getenv("DIGEST_HOUR", "6"))
+    digest_hour: int = int(os.getenv("DIGEST_HOUR", "22"))
     digest_minute: int = int(os.getenv("DIGEST_MINUTE", "0"))
     timezone: str = os.getenv("TIMEZONE", "Africa/Lagos")
     poll_interval_minutes: int = int(os.getenv("POLL_INTERVAL_MINUTES", "5"))

@@ -61,3 +61,18 @@ def format_alert(event: Event) -> str:
     if event.forecast or event.previous:
         line += f"\nForecast: {event.forecast or '-'} | Previous: {event.previous or '-'}"
     return line
+
+
+def format_warning(event: Event, dt: datetime) -> str:
+    time_str = _fmt_time(dt)
+    line = f"{_icon(event)} <b>1 hour warning</b>\n<b>{event.country}</b> {event.title} at {time_str}"
+    if event.forecast or event.previous:
+        line += f"\nForecast: {event.forecast or '-'} | Previous: {event.previous or '-'}"
+    return line
+
+
+def format_reminder(event: Event) -> str:
+    line = f"{_icon(event)} <b>Happening now</b>\n<b>{event.country}</b> {event.title}"
+    if event.forecast or event.previous:
+        line += f"\nForecast: {event.forecast or '-'} | Previous: {event.previous or '-'}"
+    return line
