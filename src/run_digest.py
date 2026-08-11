@@ -19,7 +19,7 @@ def main() -> None:
         if datetime.fromisoformat(e.date).astimezone(tz).date() == today
     ]
 
-    message = format_digest(todays_events)
+    message = format_digest(todays_events, tz)
     send_message(message)
 
 
