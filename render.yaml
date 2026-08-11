@@ -1,0 +1,20 @@
+services:
+  - type: worker
+    name: ff-news-alerts
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m src.run_alerts
+    envVars:
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: TELEGRAM_CHAT_ID
+        sync: false
+      - key: FF_CALENDAR_URL
+        value: https://nfs.faireconomy.media/ff_calendar_thisweek.json
+      - key: POLL_INTERVAL_MINUTES
+        value: "5"
+      - key: ALERT_IMPACT_LEVELS
+        value: high,medium,low
+      - key: TIMEZONE
+        value: Africa/Lagos

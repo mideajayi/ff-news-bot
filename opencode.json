@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "name": "ff-news-bot",
+  "description": "Telegram bot: ForexFactory economic calendar daily digest + real-time alerts",
+  "instructions": [
+    "Python 3.12 project. Two entrypoints: src/run_digest.py (one-shot, run by GitHub Actions cron) and src/run_alerts.py (long-running poller, deployed on Render as a worker).",
+    "FF data comes from the unofficial export feed at nfs.faireconomy.media/ff_calendar_thisweek.json — NOT scraped HTML. Rate limit is 2 requests/5min across all export formats, so POLL_INTERVAL_MINUTES must stay >= 5.",
+    "Event de-duplication for alerts happens in src/store.py against data/seen_events.json — verify this file's schema matches the real FF feed response before relying on it (the feed's exact field names should be confirmed against a live response).",
+    "Telegram sending is a thin wrapper in src/telegram_client.py using the raw Bot API (no polling/webhook needed since the bot only pushes messages).",
+    "Config is centralized in src/config.py via .env — copy .env.example to .env for local dev."
+  ]
+}
