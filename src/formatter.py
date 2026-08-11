@@ -31,20 +31,28 @@ def format_digest(events: list[Event], tz: ZoneInfo) -> str:
     if not events:
         return "<b>ForexFactory Daily Digest</b>\nNo events scheduled today."
 
-    by_day: dict[date, dict[str, list[tuple[str, str]]]] = defaultdict(lambda: defaultdict(list))
+    by_day: dict[date, dict[str, list[tuple[str, str, str]]]] = defaultdict(lambda: defaultdict(list))
     for e in events:
         dt = datetime.fromisoformat(e.date).astimezone(tz)
-        by_day[dt.date()][e.country].append((_icon(e), _fmt_time(dt)))
+        by_day[dt.date()][e.country].append((_icon(e), _fmt_time(dt), e.title))
 
-    lines = ["<b>ForexFactory Daily Digest</b>"]
+    lines = ["<b>ForexFactory Daily Digest</b>", ""]
     for day in sorted(by_day):
         weekday = day.strftime("%A")
         month = day.strftime("%b")
-        lines.append(f"\n<b>{weekday}, {month} {_ordinal(day.day)}</b>")
+        lines.append(f"<b>{weekday}, {month} {_ordinal(day.day)}</b>")
+        lines.append("")
+        first_country = True
         for country in sorted(by_day[day]):
-            entries = by_day[day][country]
-            times = ", ".join(f"{icon} {t}" for icon, t in entries)
-            lines.append(f"{country} - {times}")
+            if not first_country:
+                lines.append("")
+            first_country = False
+            lines.append(f"<b>{country}</b>")
+            lines.append("")
+            for i, (icon, t, title) in enumerate(by_day[day][country]):
+                if i > 0:
+                    lines.append("")
+                lines.append(f"  {icon} {t} {title}")
     return "\n".join(lines)
 
 
