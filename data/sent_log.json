@@ -1,7 +1,9 @@
 {
-  "last_run": "2026-08-12T06:28:27.550451+01:00",
+  "last_run": "2026-08-12T07:54:30.600820+01:00",
   "sent": [
+    "EUR|German Final CPI m/m|2026-08-12T02:00:00-04:00:reminder",
     "EUR|German Final CPI m/m|2026-08-12T02:00:00-04:00:warning",
+    "JPY|Prelim Machine Tool Orders y/y|2026-08-12T02:00:00-04:00:reminder",
     "JPY|Prelim Machine Tool Orders y/y|2026-08-12T02:00:00-04:00:warning"
   ]
 }
