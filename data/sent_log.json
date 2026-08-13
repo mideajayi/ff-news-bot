@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-13T21:23:30.863770+01:00",
+  "last_run": "2026-08-14T00:47:03.173337+01:00",
   "sent": [
     "AUD|CB Leading Index m/m|2026-08-13T10:30:00-04:00:reminder",
     "AUD|CB Leading Index m/m|2026-08-13T10:30:00-04:00:warning",
@@ -45,8 +45,12 @@
     "JPY|PPI y/y|2026-08-12T19:50:00-04:00:warning",
     "JPY|Prelim Machine Tool Orders y/y|2026-08-12T02:00:00-04:00:reminder",
     "JPY|Prelim Machine Tool Orders y/y|2026-08-12T02:00:00-04:00:warning",
+    "NZD|BusinessNZ Manufacturing Index|2026-08-13T18:30:00-04:00:reminder",
+    "NZD|BusinessNZ Manufacturing Index|2026-08-13T18:30:00-04:00:warning",
     "NZD|Inflation Expectations q/q|2026-08-12T23:00:00-04:00:reminder",
     "NZD|Inflation Expectations q/q|2026-08-12T23:00:00-04:00:warning",
+    "NZD|Visitor Arrivals m/m|2026-08-13T18:45:00-04:00:reminder",
+    "NZD|Visitor Arrivals m/m|2026-08-13T18:45:00-04:00:warning",
     "USD|10-y Bond Auction|2026-08-12T13:01:00-04:00:reminder",
     "USD|10-y Bond Auction|2026-08-12T13:01:00-04:00:warning",
     "USD|30-y Bond Auction|2026-08-13T13:01:00-04:00:reminder",
@@ -65,6 +69,8 @@
     "USD|Crude Oil Inventories|2026-08-12T10:30:00-04:00:warning",
     "USD|FOMC Member Barkin Speaks|2026-08-13T08:40:00-04:00:reminder",
     "USD|FOMC Member Barkin Speaks|2026-08-13T08:40:00-04:00:warning",
+    "USD|FOMC Member Goolsbee Speaks|2026-08-13T18:00:00-04:00:reminder",
+    "USD|FOMC Member Goolsbee Speaks|2026-08-13T18:00:00-04:00:warning",
     "USD|FOMC Member Hammack Speaks|2026-08-13T08:15:00-04:00:reminder",
     "USD|FOMC Member Hammack Speaks|2026-08-13T08:15:00-04:00:warning",
     "USD|Federal Budget Balance|2026-08-12T14:00:00-04:00:reminder",
@@ -76,7 +82,6 @@
     "USD|PPI m/m|2026-08-13T08:30:00-04:00:reminder",
     "USD|PPI m/m|2026-08-13T08:30:00-04:00:warning",
     "USD|Unemployment Claims|2026-08-13T08:30:00-04:00:reminder",
-    "USD|Unemployment Claims|2026-08-13T08:30:00-04:00:warning",
-    "digest-2026-08-12"
+    "USD|Unemployment Claims|2026-08-13T08:30:00-04:00:warning"
   ]
 }
