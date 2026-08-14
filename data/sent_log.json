@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-14T07:40:47.278389+01:00",
+  "last_run": "2026-08-14T09:03:14.097294+01:00",
   "sent": [
     "AUD|CB Leading Index m/m|2026-08-13T10:30:00-04:00:reminder",
     "AUD|CB Leading Index m/m|2026-08-13T10:30:00-04:00:warning",
@@ -15,8 +15,13 @@
     "CNY|Foreign Direct Investment ytd/y|2026-08-14T02:02:00-04:00:warning",
     "CNY|M2 Money Supply y/y|2026-08-13T04:03:00-04:00:warning",
     "CNY|M2 Money Supply y/y|2026-08-13T05:03:00-04:00:warning",
+    "CNY|M2 Money Supply y/y|2026-08-14T05:03:00-04:00:warning",
     "CNY|New Loans|2026-08-13T04:03:00-04:00:warning",
     "CNY|New Loans|2026-08-13T05:03:00-04:00:warning",
+    "CNY|New Loans|2026-08-14T05:03:00-04:00:warning",
+    "EUR|Flash Employment Change q/q|2026-08-14T05:00:00-04:00:warning",
+    "EUR|Flash GDP q/q|2026-08-14T05:00:00-04:00:warning",
+    "EUR|French Final CPI m/m|2026-08-14T02:45:00-04:00:reminder",
     "EUR|French Final CPI m/m|2026-08-14T02:45:00-04:00:warning",
     "EUR|German 30-y Bond Auction|2026-08-12T05:34:00-04:00:reminder",
     "EUR|German 30-y Bond Auction|2026-08-12T05:34:00-04:00:warning",
@@ -24,6 +29,7 @@
     "EUR|German WPI m/m|2026-08-14T02:00:00-04:00:warning",
     "EUR|Industrial Production m/m|2026-08-13T05:00:00-04:00:reminder",
     "EUR|Industrial Production m/m|2026-08-13T05:00:00-04:00:warning",
+    "EUR|Trade Balance|2026-08-14T05:00:00-04:00:warning",
     "GBP|CB Leading Index m/m|2026-08-13T09:30:00-04:00:reminder",
     "GBP|CB Leading Index m/m|2026-08-13T09:30:00-04:00:warning",
     "GBP|Construction Output m/m|2026-08-13T02:00:00-04:00:reminder",
