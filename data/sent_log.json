@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-14T19:25:02.661435+01:00",
+  "last_run": "2026-08-14T20:27:53.530889+01:00",
   "sent": [
     "AUD|CB Leading Index m/m|2026-08-13T10:30:00-04:00:reminder",
     "AUD|CB Leading Index m/m|2026-08-13T10:30:00-04:00:warning",
@@ -85,6 +85,7 @@
     "USD|Prelim UoM Consumer Sentiment|2026-08-14T10:00:00-04:00:warning",
     "USD|Prelim UoM Inflation Expectations|2026-08-14T10:00:00-04:00:reminder",
     "USD|Prelim UoM Inflation Expectations|2026-08-14T10:00:00-04:00:warning",
+    "USD|President Trump Speaks|2026-08-14T15:00:00-04:00:reminder",
     "USD|President Trump Speaks|2026-08-14T15:00:00-04:00:warning",
     "USD|Retail Sales m/m|2026-08-14T08:30:00-04:00:reminder",
     "USD|Retail Sales m/m|2026-08-14T08:30:00-04:00:warning",
