@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-18T14:04:34.263733+01:00",
+  "last_run": "2026-08-18T14:53:39.202063+01:00",
   "sent": [
     "AUD|Westpac Consumer Sentiment|2026-08-17T20:30:00-04:00:reminder",
     "AUD|Westpac Consumer Sentiment|2026-08-17T20:30:00-04:00:warning",
@@ -56,10 +56,12 @@
     "NZD|BusinessNZ Services Index|2026-08-16T18:30:00-04:00:warning",
     "NZD|FPI m/m|2026-08-16T18:45:00-04:00:reminder",
     "NZD|FPI m/m|2026-08-16T18:45:00-04:00:warning",
+    "NZD|GDT Price Index|2026-08-18T10:51:00-04:00:warning",
     "USD|ADP Weekly Employment Change|2026-08-18T08:15:00-04:00:reminder",
     "USD|ADP Weekly Employment Change|2026-08-18T08:15:00-04:00:warning",
     "USD|Building Permits|2026-08-18T08:30:00-04:00:reminder",
     "USD|Building Permits|2026-08-18T08:30:00-04:00:warning",
+    "USD|Capacity Utilization Rate|2026-08-18T09:15:00-04:00:reminder",
     "USD|Capacity Utilization Rate|2026-08-18T09:15:00-04:00:warning",
     "USD|Empire State Manufacturing Index|2026-08-17T08:30:00-04:00:reminder",
     "USD|Empire State Manufacturing Index|2026-08-17T08:30:00-04:00:warning",
@@ -67,6 +69,7 @@
     "USD|Housing Starts|2026-08-18T08:30:00-04:00:warning",
     "USD|Import Prices m/m|2026-08-18T08:30:00-04:00:reminder",
     "USD|Import Prices m/m|2026-08-18T08:30:00-04:00:warning",
+    "USD|Industrial Production m/m|2026-08-18T09:15:00-04:00:reminder",
     "USD|Industrial Production m/m|2026-08-18T09:15:00-04:00:warning",
     "USD|NAHB Housing Market Index|2026-08-17T10:00:00-04:00:reminder",
     "USD|NAHB Housing Market Index|2026-08-17T10:00:00-04:00:warning",
