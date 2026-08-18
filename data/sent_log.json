@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-18T06:48:31.114215+01:00",
+  "last_run": "2026-08-18T07:17:33.127942+01:00",
   "sent": [
     "AUD|Westpac Consumer Sentiment|2026-08-17T20:30:00-04:00:reminder",
     "AUD|Westpac Consumer Sentiment|2026-08-17T20:30:00-04:00:warning",
@@ -17,6 +17,7 @@
     "CAD|Trimmed CPI y/y|2026-08-17T08:30:00-04:00:warning",
     "CNY|Fixed Asset Investment ytd/y|2026-08-17T03:00:00-04:00:reminder",
     "CNY|Fixed Asset Investment ytd/y|2026-08-17T03:00:00-04:00:warning",
+    "CNY|Foreign Direct Investment ytd/y|2026-08-18T02:02:00-04:00:reminder",
     "CNY|Foreign Direct Investment ytd/y|2026-08-18T02:02:00-04:00:warning",
     "CNY|Industrial Production y/y|2026-08-17T03:00:00-04:00:reminder",
     "CNY|Industrial Production y/y|2026-08-17T03:00:00-04:00:warning",
@@ -28,10 +29,13 @@
     "CNY|Retail Sales y/y|2026-08-17T03:00:00-04:00:warning",
     "CNY|Unemployment Rate|2026-08-17T03:00:00-04:00:reminder",
     "CNY|Unemployment Rate|2026-08-17T03:00:00-04:00:warning",
+    "GBP|Average Earnings Index 3m/y|2026-08-18T02:00:00-04:00:reminder",
     "GBP|Average Earnings Index 3m/y|2026-08-18T02:00:00-04:00:warning",
+    "GBP|Claimant Count Change|2026-08-18T02:00:00-04:00:reminder",
     "GBP|Claimant Count Change|2026-08-18T02:00:00-04:00:warning",
     "GBP|Rightmove HPI m/m|2026-08-16T19:01:00-04:00:reminder",
     "GBP|Rightmove HPI m/m|2026-08-16T19:01:00-04:00:warning",
+    "GBP|Unemployment Rate|2026-08-18T02:00:00-04:00:reminder",
     "GBP|Unemployment Rate|2026-08-18T02:00:00-04:00:warning",
     "JPY|Prelim GDP Price Index y/y|2026-08-16T19:50:00-04:00:reminder",
     "JPY|Prelim GDP Price Index y/y|2026-08-16T19:50:00-04:00:warning",
