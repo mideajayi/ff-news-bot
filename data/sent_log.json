@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-18T21:00:34.430442+01:00",
+  "last_run": "2026-08-18T21:36:08.317346+01:00",
   "sent": [
     "AUD|Westpac Consumer Sentiment|2026-08-17T20:30:00-04:00:reminder",
     "AUD|Westpac Consumer Sentiment|2026-08-17T20:30:00-04:00:warning",
@@ -61,6 +61,7 @@
     "NZD|GDT Price Index|2026-08-18T11:31:00-04:00:reminder",
     "USD|ADP Weekly Employment Change|2026-08-18T08:15:00-04:00:reminder",
     "USD|ADP Weekly Employment Change|2026-08-18T08:15:00-04:00:warning",
+    "USD|API Weekly Statistical Bulletin|2026-08-18T16:30:00-04:00:reminder",
     "USD|API Weekly Statistical Bulletin|2026-08-18T16:30:00-04:00:warning",
     "USD|Building Permits|2026-08-18T08:30:00-04:00:reminder",
     "USD|Building Permits|2026-08-18T08:30:00-04:00:warning",
