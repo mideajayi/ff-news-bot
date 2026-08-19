@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-19T08:34:37.159041+01:00",
+  "last_run": "2026-08-19T09:07:05.848591+01:00",
   "sent": [
     "AUD|RBA Deputy Gov Hauser Speaks|2026-08-18T22:45:00-04:00:reminder",
     "AUD|RBA Deputy Gov Hauser Speaks|2026-08-18T22:45:00-04:00:warning",
@@ -23,9 +23,12 @@
     "CAD|Trimmed CPI y/y|2026-08-17T08:30:00-04:00:warning",
     "CNY|Foreign Direct Investment ytd/y|2026-08-18T02:02:00-04:00:reminder",
     "CNY|Foreign Direct Investment ytd/y|2026-08-18T02:02:00-04:00:warning",
+    "EUR|Current Account|2026-08-19T04:00:00-04:00:reminder",
     "EUR|Current Account|2026-08-19T04:00:00-04:00:warning",
     "EUR|ECB President Lagarde Speaks|2026-08-19T03:10:00-04:00:reminder",
     "EUR|ECB President Lagarde Speaks|2026-08-19T03:10:00-04:00:warning",
+    "EUR|Final CPI y/y|2026-08-19T05:00:00-04:00:warning",
+    "EUR|Final Core CPI y/y|2026-08-19T05:00:00-04:00:warning",
     "EUR|German ZEW Economic Sentiment|2026-08-18T05:00:00-04:00:reminder",
     "EUR|German ZEW Economic Sentiment|2026-08-18T05:00:00-04:00:warning",
     "EUR|ZEW Economic Sentiment|2026-08-18T05:00:00-04:00:reminder",
