@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-19T09:07:05.848591+01:00",
+  "last_run": "2026-08-19T09:52:19.787825+01:00",
   "sent": [
     "AUD|RBA Deputy Gov Hauser Speaks|2026-08-18T22:45:00-04:00:reminder",
     "AUD|RBA Deputy Gov Hauser Speaks|2026-08-18T22:45:00-04:00:warning",
@@ -29,6 +29,7 @@
     "EUR|ECB President Lagarde Speaks|2026-08-19T03:10:00-04:00:warning",
     "EUR|Final CPI y/y|2026-08-19T05:00:00-04:00:warning",
     "EUR|Final Core CPI y/y|2026-08-19T05:00:00-04:00:warning",
+    "EUR|German 10-y Bond Auction|2026-08-19T05:42:00-04:00:warning",
     "EUR|German ZEW Economic Sentiment|2026-08-18T05:00:00-04:00:reminder",
     "EUR|German ZEW Economic Sentiment|2026-08-18T05:00:00-04:00:warning",
     "EUR|ZEW Economic Sentiment|2026-08-18T05:00:00-04:00:reminder",
@@ -42,6 +43,7 @@
     "GBP|Claimant Count Change|2026-08-18T02:00:00-04:00:warning",
     "GBP|Core CPI y/y|2026-08-19T02:00:00-04:00:reminder",
     "GBP|Core CPI y/y|2026-08-19T02:00:00-04:00:warning",
+    "GBP|HPI y/y|2026-08-19T04:30:00-04:00:reminder",
     "GBP|HPI y/y|2026-08-19T04:30:00-04:00:warning",
     "GBP|PPI Input m/m|2026-08-19T02:00:00-04:00:reminder",
     "GBP|PPI Input m/m|2026-08-19T02:00:00-04:00:warning",
