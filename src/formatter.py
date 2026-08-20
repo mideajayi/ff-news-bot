@@ -17,9 +17,11 @@ def _icon(event: Event) -> str:
 
 
 def _ordinal(n: int) -> str:
-    if 11 <= (n % 100) <= 13:
-        return f"{n}th"
-    return f"{n}{['th','st','nd','rd'][n % 10]}"
+    if 11 <= n % 100 <= 13:
+        suffix = "th"
+    else:
+        suffix = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+    return f"{n}{suffix}"
 
 
 def _fmt_time(dt: datetime) -> str:
