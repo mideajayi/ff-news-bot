@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-21T02:23:16.895121+01:00",
+  "last_run": "2026-08-21T03:42:29.755986+01:00",
   "sent": [
     "AUD|Employment Change|2026-08-19T21:30:00-04:00:reminder",
     "AUD|Employment Change|2026-08-19T21:30:00-04:00:warning",
@@ -13,8 +13,6 @@
     "AUD|RBA Deputy Gov Hauser Speaks|2026-08-18T22:45:00-04:00:warning",
     "AUD|Unemployment Rate|2026-08-19T21:30:00-04:00:reminder",
     "AUD|Unemployment Rate|2026-08-19T21:30:00-04:00:warning",
-    "AUD|Wage Price Index q/q|2026-08-18T21:30:00-04:00:reminder",
-    "AUD|Wage Price Index q/q|2026-08-18T21:30:00-04:00:warning",
     "CAD|IPPI m/m|2026-08-20T08:30:00-04:00:reminder",
     "CAD|IPPI m/m|2026-08-20T08:30:00-04:00:warning",
     "CAD|NHPI m/m|2026-08-20T08:30:00-04:00:reminder",
@@ -63,6 +61,7 @@
     "JPY|National Core CPI y/y|2026-08-20T19:30:00-04:00:warning",
     "JPY|Trade Balance|2026-08-19T19:50:00-04:00:reminder",
     "JPY|Trade Balance|2026-08-19T19:50:00-04:00:warning",
+    "NZD|Credit Card Spending y/y|2026-08-20T23:00:00-04:00:warning",
     "NZD|Trade Balance|2026-08-20T18:45:00-04:00:reminder",
     "NZD|Trade Balance|2026-08-20T18:45:00-04:00:warning",
     "USD|CB Leading Index m/m|2026-08-20T10:00:00-04:00:reminder",
