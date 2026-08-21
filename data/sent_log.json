@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-21T11:04:08.298503+01:00",
+  "last_run": "2026-08-21T11:42:39.457909+01:00",
   "sent": [
     "AUD|Employment Change|2026-08-19T21:30:00-04:00:reminder",
     "AUD|Employment Change|2026-08-19T21:30:00-04:00:warning",
@@ -21,8 +21,6 @@
     "CNY|1-y Loan Prime Rate|2026-08-19T21:00:00-04:00:warning",
     "CNY|5-y Loan Prime Rate|2026-08-19T21:00:00-04:00:reminder",
     "CNY|5-y Loan Prime Rate|2026-08-19T21:00:00-04:00:warning",
-    "EUR|ECB President Lagarde Speaks|2026-08-19T06:15:00-04:00:reminder",
-    "EUR|ECB President Lagarde Speaks|2026-08-19T06:15:00-04:00:warning",
     "EUR|Flash Manufacturing PMI|2026-08-21T04:00:00-04:00:reminder",
     "EUR|Flash Manufacturing PMI|2026-08-21T04:00:00-04:00:warning",
     "EUR|Flash Services PMI|2026-08-21T04:00:00-04:00:reminder",
