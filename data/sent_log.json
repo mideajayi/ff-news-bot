@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-21T00:57:12.617643+01:00",
+  "last_run": "2026-08-21T02:23:16.895121+01:00",
   "sent": [
     "AUD|Employment Change|2026-08-19T21:30:00-04:00:reminder",
     "AUD|Employment Change|2026-08-19T21:30:00-04:00:warning",
@@ -57,6 +57,7 @@
     "GBP|PPI Output m/m|2026-08-19T02:00:00-04:00:warning",
     "GBP|RPI y/y|2026-08-19T02:00:00-04:00:reminder",
     "GBP|RPI y/y|2026-08-19T02:00:00-04:00:warning",
+    "JPY|Flash Manufacturing PMI|2026-08-20T20:30:00-04:00:reminder",
     "JPY|Flash Manufacturing PMI|2026-08-20T20:30:00-04:00:warning",
     "JPY|National Core CPI y/y|2026-08-20T19:30:00-04:00:reminder",
     "JPY|National Core CPI y/y|2026-08-20T19:30:00-04:00:warning",
