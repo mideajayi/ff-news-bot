@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-21T14:14:13.237464+01:00",
+  "last_run": "2026-08-21T15:00:19.963451+01:00",
   "sent": [
     "AUD|Employment Change|2026-08-19T21:30:00-04:00:reminder",
     "AUD|Employment Change|2026-08-19T21:30:00-04:00:warning",
@@ -25,6 +25,7 @@
     "CNY|1-y Loan Prime Rate|2026-08-19T21:00:00-04:00:warning",
     "CNY|5-y Loan Prime Rate|2026-08-19T21:00:00-04:00:reminder",
     "CNY|5-y Loan Prime Rate|2026-08-19T21:00:00-04:00:warning",
+    "EUR|Consumer Confidence|2026-08-21T10:00:00-04:00:reminder",
     "EUR|Consumer Confidence|2026-08-21T10:00:00-04:00:warning",
     "EUR|Flash Manufacturing PMI|2026-08-21T04:00:00-04:00:reminder",
     "EUR|Flash Manufacturing PMI|2026-08-21T04:00:00-04:00:warning",
@@ -70,7 +71,9 @@
     "USD|Crude Oil Inventories|2026-08-19T10:30:00-04:00:warning",
     "USD|FOMC Meeting Minutes|2026-08-19T14:00:00-04:00:reminder",
     "USD|FOMC Meeting Minutes|2026-08-19T14:00:00-04:00:warning",
+    "USD|Flash Manufacturing PMI|2026-08-21T09:45:00-04:00:reminder",
     "USD|Flash Manufacturing PMI|2026-08-21T09:45:00-04:00:warning",
+    "USD|Flash Services PMI|2026-08-21T09:45:00-04:00:reminder",
     "USD|Flash Services PMI|2026-08-21T09:45:00-04:00:warning",
     "USD|Natural Gas Storage|2026-08-20T10:30:00-04:00:reminder",
     "USD|Natural Gas Storage|2026-08-20T10:30:00-04:00:warning",
