@@ -1,10 +1,6 @@
 {
-  "last_run": "2026-08-22T23:54:39.122679+01:00",
+  "last_run": "2026-08-23T00:17:18.417230+01:00",
   "sent": [
-    "AUD|Flash Manufacturing PMI|2026-08-20T19:00:00-04:00:reminder",
-    "AUD|Flash Manufacturing PMI|2026-08-20T19:00:00-04:00:warning",
-    "AUD|Flash Services PMI|2026-08-20T19:00:00-04:00:reminder",
-    "AUD|Flash Services PMI|2026-08-20T19:00:00-04:00:warning",
     "CAD|Core Retail Sales m/m|2026-08-21T08:30:00-04:00:reminder",
     "CAD|Core Retail Sales m/m|2026-08-21T08:30:00-04:00:warning",
     "CAD|Retail Sales m/m|2026-08-21T08:30:00-04:00:reminder",
@@ -27,8 +23,6 @@
     "GBP|Flash Manufacturing PMI|2026-08-21T04:30:00-04:00:warning",
     "GBP|Flash Services PMI|2026-08-21T04:30:00-04:00:reminder",
     "GBP|Flash Services PMI|2026-08-21T04:30:00-04:00:warning",
-    "GBP|GfK Consumer Confidence|2026-08-20T19:01:00-04:00:reminder",
-    "GBP|GfK Consumer Confidence|2026-08-20T19:01:00-04:00:warning",
     "GBP|Public Sector Net Borrowing|2026-08-21T02:00:00-04:00:reminder",
     "GBP|Public Sector Net Borrowing|2026-08-21T02:00:00-04:00:warning",
     "GBP|Retail Sales m/m|2026-08-21T02:00:00-04:00:reminder",
@@ -45,7 +39,6 @@
     "USD|Flash Services PMI|2026-08-21T09:45:00-04:00:warning",
     "USD|President Trump Speaks|2026-08-21T19:00:00-04:00:reminder",
     "USD|President Trump Speaks|2026-08-21T19:00:00-04:00:warning",
-    "digest-2026-08-21",
     "digest-2026-08-22"
   ]
 }
