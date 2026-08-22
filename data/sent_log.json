@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-22T00:55:28.729398+01:00",
+  "last_run": "2026-08-22T02:03:54.725899+01:00",
   "sent": [
     "AUD|Employment Change|2026-08-19T21:30:00-04:00:reminder",
     "AUD|Employment Change|2026-08-19T21:30:00-04:00:warning",
@@ -7,8 +7,6 @@
     "AUD|Flash Manufacturing PMI|2026-08-20T19:00:00-04:00:warning",
     "AUD|Flash Services PMI|2026-08-20T19:00:00-04:00:reminder",
     "AUD|Flash Services PMI|2026-08-20T19:00:00-04:00:warning",
-    "AUD|MI Inflation Expectations|2026-08-19T21:00:00-04:00:reminder",
-    "AUD|MI Inflation Expectations|2026-08-19T21:00:00-04:00:warning",
     "AUD|Unemployment Rate|2026-08-19T21:30:00-04:00:reminder",
     "AUD|Unemployment Rate|2026-08-19T21:30:00-04:00:warning",
     "CAD|Core Retail Sales m/m|2026-08-21T08:30:00-04:00:reminder",
@@ -21,10 +19,6 @@
     "CAD|RMPI m/m|2026-08-20T08:30:00-04:00:warning",
     "CAD|Retail Sales m/m|2026-08-21T08:30:00-04:00:reminder",
     "CAD|Retail Sales m/m|2026-08-21T08:30:00-04:00:warning",
-    "CNY|1-y Loan Prime Rate|2026-08-19T21:00:00-04:00:reminder",
-    "CNY|1-y Loan Prime Rate|2026-08-19T21:00:00-04:00:warning",
-    "CNY|5-y Loan Prime Rate|2026-08-19T21:00:00-04:00:reminder",
-    "CNY|5-y Loan Prime Rate|2026-08-19T21:00:00-04:00:warning",
     "EUR|Consumer Confidence|2026-08-21T10:00:00-04:00:reminder",
     "EUR|Consumer Confidence|2026-08-21T10:00:00-04:00:warning",
     "EUR|Flash Manufacturing PMI|2026-08-21T04:00:00-04:00:reminder",
