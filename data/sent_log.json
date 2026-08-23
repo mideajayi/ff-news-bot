@@ -1,12 +1,8 @@
 {
-  "last_run": "2026-08-23T14:21:10.517781+01:00",
+  "last_run": "2026-08-23T14:53:26.669875+01:00",
   "sent": [
     "EUR|Consumer Confidence|2026-08-21T10:00:00-04:00:reminder",
     "EUR|Consumer Confidence|2026-08-21T10:00:00-04:00:warning",
-    "USD|Flash Manufacturing PMI|2026-08-21T09:45:00-04:00:reminder",
-    "USD|Flash Manufacturing PMI|2026-08-21T09:45:00-04:00:warning",
-    "USD|Flash Services PMI|2026-08-21T09:45:00-04:00:reminder",
-    "USD|Flash Services PMI|2026-08-21T09:45:00-04:00:warning",
     "USD|President Trump Speaks|2026-08-21T19:00:00-04:00:reminder",
     "USD|President Trump Speaks|2026-08-21T19:00:00-04:00:warning",
     "digest-2026-08-22"
