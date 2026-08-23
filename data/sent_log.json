@@ -1,13 +1,10 @@
 {
-  "last_run": "2026-08-23T23:54:29.696388+01:00",
+  "last_run": "2026-08-24T00:17:13.999363+01:00",
   "sent": [
     "NZD|Core Retail Sales q/q|2026-08-23T18:45:00-04:00:reminder",
     "NZD|Core Retail Sales q/q|2026-08-23T18:45:00-04:00:warning",
     "NZD|Retail Sales q/q|2026-08-23T18:45:00-04:00:reminder",
     "NZD|Retail Sales q/q|2026-08-23T18:45:00-04:00:warning",
-    "USD|President Trump Speaks|2026-08-21T19:00:00-04:00:reminder",
-    "USD|President Trump Speaks|2026-08-21T19:00:00-04:00:warning",
-    "digest-2026-08-22",
     "digest-2026-08-23"
   ]
 }
