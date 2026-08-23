@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-23T07:57:22.647672+01:00",
+  "last_run": "2026-08-23T08:34:40.007211+01:00",
   "sent": [
     "CAD|Core Retail Sales m/m|2026-08-21T08:30:00-04:00:reminder",
     "CAD|Core Retail Sales m/m|2026-08-21T08:30:00-04:00:warning",
@@ -11,14 +11,6 @@
     "EUR|Flash Manufacturing PMI|2026-08-21T04:00:00-04:00:warning",
     "EUR|Flash Services PMI|2026-08-21T04:00:00-04:00:reminder",
     "EUR|Flash Services PMI|2026-08-21T04:00:00-04:00:warning",
-    "EUR|French Flash Manufacturing PMI|2026-08-21T03:15:00-04:00:reminder",
-    "EUR|French Flash Manufacturing PMI|2026-08-21T03:15:00-04:00:warning",
-    "EUR|French Flash Services PMI|2026-08-21T03:15:00-04:00:reminder",
-    "EUR|French Flash Services PMI|2026-08-21T03:15:00-04:00:warning",
-    "EUR|German Flash Manufacturing PMI|2026-08-21T03:30:00-04:00:reminder",
-    "EUR|German Flash Manufacturing PMI|2026-08-21T03:30:00-04:00:warning",
-    "EUR|German Flash Services PMI|2026-08-21T03:30:00-04:00:reminder",
-    "EUR|German Flash Services PMI|2026-08-21T03:30:00-04:00:warning",
     "GBP|Flash Manufacturing PMI|2026-08-21T04:30:00-04:00:reminder",
     "GBP|Flash Manufacturing PMI|2026-08-21T04:30:00-04:00:warning",
     "GBP|Flash Services PMI|2026-08-21T04:30:00-04:00:reminder",
