@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-25T20:41:30.592090+01:00",
+  "last_run": "2026-08-25T21:03:47.077067+01:00",
   "sent": [
     "AUD|Monetary Policy Meeting Minutes|2026-08-24T21:30:00-04:00:reminder",
     "AUD|Monetary Policy Meeting Minutes|2026-08-24T21:30:00-04:00:warning",
@@ -24,6 +24,7 @@
     "USD|CB Consumer Confidence|2026-08-25T10:00:00-04:00:warning",
     "USD|FOMC Member Barkin Speaks|2026-08-25T08:30:00-04:00:reminder",
     "USD|FOMC Member Barkin Speaks|2026-08-25T08:30:00-04:00:warning",
+    "USD|FOMC Member Barkin Speaks|2026-08-25T16:00:00-04:00:reminder",
     "USD|FOMC Member Barkin Speaks|2026-08-25T16:00:00-04:00:warning",
     "USD|HPI m/m|2026-08-25T09:00:00-04:00:reminder",
     "USD|HPI m/m|2026-08-25T09:00:00-04:00:warning",
