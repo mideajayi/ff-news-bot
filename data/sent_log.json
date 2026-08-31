@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-31T07:04:10.228822+01:00",
+  "last_run": "2026-08-31T14:36:35.052353+01:00",
   "sent": [
     "AUD|Company Operating Profits q/q|2026-08-30T21:30:00-04:00:reminder",
     "AUD|Company Operating Profits q/q|2026-08-30T21:30:00-04:00:warning",
@@ -17,6 +17,7 @@
     "CNY|Manufacturing PMI|2026-08-30T21:30:00-04:00:warning",
     "CNY|Non-Manufacturing PMI|2026-08-30T21:30:00-04:00:reminder",
     "CNY|Non-Manufacturing PMI|2026-08-30T21:30:00-04:00:warning",
+    "EUR|German Prelim CPI m/m|2026-08-31T02:29:00-04:00:reminder",
     "EUR|German Prelim CPI m/m|2026-08-31T02:29:00-04:00:warning",
     "JPY|Housing Starts y/y|2026-08-31T01:00:00-04:00:reminder",
     "JPY|Housing Starts y/y|2026-08-31T01:00:00-04:00:warning",
