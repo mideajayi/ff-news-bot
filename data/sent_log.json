@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-31T14:36:35.052353+01:00",
+  "last_run": "2026-08-31T20:37:51.007612+01:00",
   "sent": [
     "AUD|Company Operating Profits q/q|2026-08-30T21:30:00-04:00:reminder",
     "AUD|Company Operating Profits q/q|2026-08-30T21:30:00-04:00:warning",
@@ -7,12 +7,10 @@
     "AUD|MI Inflation Gauge m/m|2026-08-30T21:00:00-04:00:warning",
     "AUD|Private Sector Credit m/m|2026-08-30T21:30:00-04:00:reminder",
     "AUD|Private Sector Credit m/m|2026-08-30T21:30:00-04:00:warning",
-    "All|G20 Meetings|2026-08-29T11:15:00-04:00:reminder",
-    "All|G20 Meetings|2026-08-29T11:15:00-04:00:warning",
     "All|G20 Meetings|2026-08-30T11:15:00-04:00:reminder",
     "All|G20 Meetings|2026-08-30T11:15:00-04:00:warning",
-    "All|Jackson Hole Symposium|2026-08-29T12:15:00-04:00:reminder",
-    "All|Jackson Hole Symposium|2026-08-29T12:15:00-04:00:warning",
+    "All|G20 Meetings|2026-08-31T11:15:00-04:00:reminder",
+    "All|G20 Meetings|2026-08-31T11:15:00-04:00:warning",
     "CNY|Manufacturing PMI|2026-08-30T21:30:00-04:00:reminder",
     "CNY|Manufacturing PMI|2026-08-30T21:30:00-04:00:warning",
     "CNY|Non-Manufacturing PMI|2026-08-30T21:30:00-04:00:reminder",
