@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-01T20:43:47.635362+01:00",
+  "last_run": "2026-09-01T23:06:20.594836+01:00",
   "sent": [
     "AUD|Building Approvals m/m|2026-08-31T21:30:00-04:00:reminder",
     "AUD|Building Approvals m/m|2026-08-31T21:30:00-04:00:warning",
@@ -81,8 +81,10 @@
     "JPY|Retail Sales y/y|2026-08-30T19:50:00-04:00:warning",
     "NZD|ANZ Business Confidence|2026-08-30T21:00:00-04:00:reminder",
     "NZD|ANZ Business Confidence|2026-08-30T21:00:00-04:00:warning",
+    "NZD|Building Consents m/m|2026-09-01T18:45:00-04:00:warning",
     "NZD|GDT Price Index|2026-09-01T11:25:00-04:00:reminder",
     "NZD|GDT Price Index|2026-09-01T11:25:00-04:00:warning",
+    "USD|API Weekly Statistical Bulletin|2026-09-01T16:30:00-04:00:reminder",
     "USD|API Weekly Statistical Bulletin|2026-09-01T16:30:00-04:00:warning",
     "USD|Construction Spending m/m|2026-09-01T10:00:00-04:00:reminder",
     "USD|Construction Spending m/m|2026-09-01T10:00:00-04:00:warning",
@@ -99,6 +101,7 @@
     "USD|Omdia Total Vehicle Sales|2026-09-01T10:15:00-04:00:reminder",
     "USD|Omdia Total Vehicle Sales|2026-09-01T10:15:00-04:00:warning",
     "USD|RCM/TIPP Economic Optimism|2026-09-01T10:04:00-04:00:reminder",
-    "USD|RCM/TIPP Economic Optimism|2026-09-01T10:04:00-04:00:warning"
+    "USD|RCM/TIPP Economic Optimism|2026-09-01T10:04:00-04:00:warning",
+    "digest-2026-09-01"
   ]
 }
