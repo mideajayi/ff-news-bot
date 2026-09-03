@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-03T18:17:22.001743+01:00",
+  "last_run": "2026-09-03T20:56:37.027691+01:00",
   "sent": [
     "AUD|GDP q/q|2026-09-01T21:30:00-04:00:reminder",
     "AUD|GDP q/q|2026-09-01T21:30:00-04:00:warning",
@@ -79,6 +79,10 @@
     "USD|Challenger Job Cuts y/y|2026-09-03T05:30:00-04:00:warning",
     "USD|Crude Oil Inventories|2026-09-02T10:30:00-04:00:reminder",
     "USD|Crude Oil Inventories|2026-09-02T10:30:00-04:00:warning",
+    "USD|FOMC Member Goolsbee Speaks|2026-09-03T15:55:00-04:00:reminder",
+    "USD|FOMC Member Goolsbee Speaks|2026-09-03T15:55:00-04:00:warning",
+    "USD|FOMC Member Hammack Speaks|2026-09-03T15:00:00-04:00:reminder",
+    "USD|FOMC Member Hammack Speaks|2026-09-03T15:00:00-04:00:warning",
     "USD|FOMC Member Waller Speaks|2026-09-03T08:30:00-04:00:reminder",
     "USD|FOMC Member Waller Speaks|2026-09-03T08:30:00-04:00:warning",
     "USD|Factory Orders m/m|2026-09-02T10:00:00-04:00:reminder",
