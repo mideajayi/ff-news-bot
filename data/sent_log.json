@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-04T17:57:51.600640+01:00",
+  "last_run": "2026-09-04T20:20:57.561032+01:00",
   "sent": [
     "AUD|Goods Trade Balance|2026-09-02T21:30:00-04:00:reminder",
     "AUD|Goods Trade Balance|2026-09-02T21:30:00-04:00:warning",
@@ -65,8 +65,6 @@
     "NZD|RBNZ Gov Breman Speaks|2026-09-02T16:10:00-04:00:warning",
     "USD|Average Hourly Earnings m/m|2026-09-04T08:30:00-04:00:reminder",
     "USD|Average Hourly Earnings m/m|2026-09-04T08:30:00-04:00:warning",
-    "USD|Beige Book|2026-09-02T14:00:00-04:00:reminder",
-    "USD|Beige Book|2026-09-02T14:00:00-04:00:warning",
     "USD|Challenger Job Cuts y/y|2026-09-03T05:30:00-04:00:reminder",
     "USD|Challenger Job Cuts y/y|2026-09-03T05:30:00-04:00:warning",
     "USD|FOMC Member Goolsbee Speaks|2026-09-03T15:55:00-04:00:reminder",
