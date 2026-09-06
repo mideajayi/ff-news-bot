@@ -1,18 +1,8 @@
 {
-  "last_run": "2026-09-06T11:12:45.197326+01:00",
+  "last_run": "2026-09-06T14:42:26.251819+01:00",
   "sent": [
-    "CAD|Employment Change|2026-09-04T08:30:00-04:00:reminder",
-    "CAD|Employment Change|2026-09-04T08:30:00-04:00:warning",
     "CAD|Ivey PMI|2026-09-04T10:00:00-04:00:reminder",
     "CAD|Ivey PMI|2026-09-04T10:00:00-04:00:warning",
-    "CAD|Unemployment Rate|2026-09-04T08:30:00-04:00:reminder",
-    "CAD|Unemployment Rate|2026-09-04T08:30:00-04:00:warning",
-    "USD|Average Hourly Earnings m/m|2026-09-04T08:30:00-04:00:reminder",
-    "USD|Average Hourly Earnings m/m|2026-09-04T08:30:00-04:00:warning",
-    "USD|Non-Farm Employment Change|2026-09-04T08:30:00-04:00:reminder",
-    "USD|Non-Farm Employment Change|2026-09-04T08:30:00-04:00:warning",
-    "USD|Unemployment Rate|2026-09-04T08:30:00-04:00:reminder",
-    "USD|Unemployment Rate|2026-09-04T08:30:00-04:00:warning",
     "digest-2026-09-05"
   ]
 }
