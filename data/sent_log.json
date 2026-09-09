@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-09T21:21:02.227721+01:00",
+  "last_run": "2026-09-09T23:40:25.491405+01:00",
   "sent": [
     "AUD|NAB Business Confidence|2026-09-07T21:30:00-04:00:reminder",
     "AUD|NAB Business Confidence|2026-09-07T21:30:00-04:00:warning",
@@ -33,6 +33,7 @@
     "GBP|BRC Retail Sales Monitor y/y|2026-09-07T19:01:00-04:00:warning",
     "GBP|Monetary Policy Report Hearings|2026-09-08T09:15:00-04:00:reminder",
     "GBP|Monetary Policy Report Hearings|2026-09-08T09:15:00-04:00:warning",
+    "GBP|RICS House Price Balance|2026-09-09T19:01:00-04:00:warning",
     "JPY|Average Cash Earnings y/y|2026-09-07T19:30:00-04:00:reminder",
     "JPY|Average Cash Earnings y/y|2026-09-07T19:30:00-04:00:warning",
     "JPY|Bank Lending y/y|2026-09-07T19:50:00-04:00:reminder",
@@ -57,11 +58,13 @@
     "USD|ADP Weekly Employment Change|2026-09-09T08:14:00-04:00:warning",
     "USD|ADP Weekly Employment Change|2026-09-09T08:15:00-04:00:reminder",
     "USD|ADP Weekly Employment Change|2026-09-09T08:15:00-04:00:warning",
+    "USD|API Weekly Statistical Bulletin|2026-09-09T16:30:00-04:00:reminder",
     "USD|API Weekly Statistical Bulletin|2026-09-09T16:30:00-04:00:warning",
     "USD|Consumer Credit m/m|2026-09-08T15:00:00-04:00:reminder",
     "USD|Consumer Credit m/m|2026-09-08T15:00:00-04:00:warning",
     "USD|NFIB Small Business Index|2026-09-08T06:00:00-04:00:reminder",
     "USD|NFIB Small Business Index|2026-09-08T06:00:00-04:00:warning",
-    "digest-2026-09-08"
+    "digest-2026-09-08",
+    "digest-2026-09-09"
   ]
 }
