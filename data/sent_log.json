@@ -1,6 +1,10 @@
 {
-  "last_run": "2026-09-21T11:50:34.374677+01:00",
+  "last_run": "2026-09-21T17:45:58.668003+01:00",
   "sent": [
+    "CAD|BOC Gov Macklem Speaks|2026-09-21T11:05:00-04:00:reminder",
+    "CAD|BOC Gov Macklem Speaks|2026-09-21T11:05:00-04:00:warning",
+    "EUR|ECB President Lagarde Speaks|2026-09-21T11:00:00-04:00:reminder",
+    "EUR|ECB President Lagarde Speaks|2026-09-21T11:00:00-04:00:warning",
     "EUR|German Buba Monthly Report|2026-09-21T06:00:00-04:00:reminder",
     "EUR|German Buba Monthly Report|2026-09-21T06:00:00-04:00:warning",
     "GBP|Rightmove HPI m/m|2026-09-20T19:01:00-04:00:reminder",
