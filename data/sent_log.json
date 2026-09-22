@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-22T13:39:00.922714+01:00",
+  "last_run": "2026-09-22T18:17:04.257001+01:00",
   "sent": [
     "AUD|RBA Assist Gov Hunter Speaks|2026-09-21T15:00:00-04:00:reminder",
     "AUD|RBA Assist Gov Hunter Speaks|2026-09-21T15:00:00-04:00:warning",
@@ -7,6 +7,8 @@
     "AUD|RBA Gov Bullock Speaks|2026-09-21T23:10:00-04:00:warning",
     "CAD|BOC Gov Macklem Speaks|2026-09-21T11:05:00-04:00:reminder",
     "CAD|BOC Gov Macklem Speaks|2026-09-21T11:05:00-04:00:warning",
+    "EUR|Consumer Confidence|2026-09-22T10:00:00-04:00:reminder",
+    "EUR|Consumer Confidence|2026-09-22T10:00:00-04:00:warning",
     "EUR|ECB President Lagarde Speaks|2026-09-21T11:00:00-04:00:reminder",
     "EUR|ECB President Lagarde Speaks|2026-09-21T11:00:00-04:00:warning",
     "EUR|ECB President Lagarde Speaks|2026-09-22T07:00:00-04:00:reminder",
@@ -25,7 +27,17 @@
     "NZD|Credit Card Spending y/y|2026-09-20T23:00:00-04:00:warning",
     "USD|ADP Weekly Employment Change|2026-09-22T08:15:00-04:00:reminder",
     "USD|ADP Weekly Employment Change|2026-09-22T08:15:00-04:00:warning",
+    "USD|FOMC Member Barkin Speaks|2026-09-22T13:00:00-04:00:reminder",
+    "USD|FOMC Member Barkin Speaks|2026-09-22T13:00:00-04:00:warning",
     "USD|FOMC Member Goolsbee Speaks|2026-09-21T06:30:00-04:00:reminder",
-    "USD|FOMC Member Goolsbee Speaks|2026-09-21T06:30:00-04:00:warning"
+    "USD|FOMC Member Goolsbee Speaks|2026-09-21T06:30:00-04:00:warning",
+    "USD|FOMC Member Jefferson Speaks|2026-09-22T10:20:00-04:00:reminder",
+    "USD|FOMC Member Jefferson Speaks|2026-09-22T10:20:00-04:00:warning",
+    "USD|FOMC Member Williams Speaks|2026-09-22T10:05:00-04:00:reminder",
+    "USD|FOMC Member Williams Speaks|2026-09-22T10:05:00-04:00:warning",
+    "USD|President Trump Speaks|2026-09-22T09:55:00-04:00:reminder",
+    "USD|President Trump Speaks|2026-09-22T09:55:00-04:00:warning",
+    "USD|Richmond Manufacturing Index|2026-09-22T10:00:00-04:00:reminder",
+    "USD|Richmond Manufacturing Index|2026-09-22T10:00:00-04:00:warning"
   ]
 }
