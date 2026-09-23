@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-23T02:23:27.279908+01:00",
+  "last_run": "2026-09-23T07:17:42.967101+01:00",
   "sent": [
     "AUD|Flash Manufacturing PMI|2026-09-22T19:00:00-04:00:reminder",
     "AUD|Flash Manufacturing PMI|2026-09-22T19:00:00-04:00:warning",
@@ -17,6 +17,8 @@
     "EUR|ECB President Lagarde Speaks|2026-09-21T11:00:00-04:00:warning",
     "EUR|ECB President Lagarde Speaks|2026-09-22T07:00:00-04:00:reminder",
     "EUR|ECB President Lagarde Speaks|2026-09-22T07:00:00-04:00:warning",
+    "EUR|French Flash Manufacturing PMI|2026-09-23T03:15:00-04:00:warning",
+    "EUR|French Flash Services PMI|2026-09-23T03:15:00-04:00:warning",
     "EUR|German Buba Monthly Report|2026-09-21T06:00:00-04:00:reminder",
     "EUR|German Buba Monthly Report|2026-09-21T06:00:00-04:00:warning",
     "EUR|German Buba President Nagel Speaks|2026-09-22T04:30:00-04:00:reminder",
@@ -27,8 +29,6 @@
     "GBP|CBI Industrial Order Expectations|2026-09-22T06:00:00-04:00:warning",
     "GBP|Public Sector Net Borrowing|2026-09-22T02:00:00-04:00:reminder",
     "GBP|Public Sector Net Borrowing|2026-09-22T02:00:00-04:00:warning",
-    "NZD|Credit Card Spending y/y|2026-09-20T23:00:00-04:00:reminder",
-    "NZD|Credit Card Spending y/y|2026-09-20T23:00:00-04:00:warning",
     "USD|ADP Weekly Employment Change|2026-09-22T08:15:00-04:00:reminder",
     "USD|ADP Weekly Employment Change|2026-09-22T08:15:00-04:00:warning",
     "USD|API Weekly Statistical Bulletin|2026-09-22T16:30:00-04:00:reminder",
