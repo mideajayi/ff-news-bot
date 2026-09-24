@@ -1,12 +1,16 @@
 {
-  "last_run": "2026-09-23T23:20:50.732832+01:00",
+  "last_run": "2026-09-24T01:41:17.450714+01:00",
   "sent": [
+    "AUD|Employment Change|2026-09-23T21:30:00-04:00:warning",
     "AUD|Flash Manufacturing PMI|2026-09-22T19:00:00-04:00:reminder",
     "AUD|Flash Manufacturing PMI|2026-09-22T19:00:00-04:00:warning",
     "AUD|Flash Services PMI|2026-09-22T19:00:00-04:00:reminder",
     "AUD|Flash Services PMI|2026-09-22T19:00:00-04:00:warning",
+    "AUD|NAB Quarterly Business Confidence|2026-09-23T20:35:00-04:00:reminder",
+    "AUD|NAB Quarterly Business Confidence|2026-09-23T20:35:00-04:00:warning",
     "AUD|RBA Gov Bullock Speaks|2026-09-21T23:10:00-04:00:reminder",
     "AUD|RBA Gov Bullock Speaks|2026-09-21T23:10:00-04:00:warning",
+    "AUD|Unemployment Rate|2026-09-23T21:30:00-04:00:warning",
     "EUR|Consumer Confidence|2026-09-22T10:00:00-04:00:reminder",
     "EUR|Consumer Confidence|2026-09-22T10:00:00-04:00:warning",
     "EUR|ECB President Lagarde Speaks|2026-09-22T07:00:00-04:00:reminder",
@@ -37,6 +41,8 @@
     "GBP|Flash Services PMI|2026-09-23T04:30:00-04:00:warning",
     "GBP|Public Sector Net Borrowing|2026-09-22T02:00:00-04:00:reminder",
     "GBP|Public Sector Net Borrowing|2026-09-22T02:00:00-04:00:warning",
+    "JPY|Flash Manufacturing PMI|2026-09-23T20:30:00-04:00:reminder",
+    "JPY|Flash Manufacturing PMI|2026-09-23T20:30:00-04:00:warning",
     "USD|ADP Weekly Employment Change|2026-09-22T08:15:00-04:00:reminder",
     "USD|ADP Weekly Employment Change|2026-09-22T08:15:00-04:00:warning",
     "USD|API Weekly Statistical Bulletin|2026-09-22T16:30:00-04:00:reminder",
@@ -61,7 +67,6 @@
     "USD|President Trump Speaks|2026-09-22T09:55:00-04:00:warning",
     "USD|Richmond Manufacturing Index|2026-09-22T10:00:00-04:00:reminder",
     "USD|Richmond Manufacturing Index|2026-09-22T10:00:00-04:00:warning",
-    "digest-2026-09-22",
     "digest-2026-09-23"
   ]
 }
