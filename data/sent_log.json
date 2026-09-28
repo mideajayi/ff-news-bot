@@ -1,9 +1,15 @@
 {
-  "last_run": "2026-09-28T08:42:44.124461+01:00",
+  "last_run": "2026-09-28T17:02:20.563776+01:00",
   "sent": [
+    "EUR|ECB President Lagarde Speaks|2026-09-28T09:30:00-04:00:reminder",
+    "EUR|ECB President Lagarde Speaks|2026-09-28T09:30:00-04:00:warning",
+    "GBP|MPC Member Ramsden Speaks|2026-09-28T06:00:00-04:00:reminder",
+    "GBP|MPC Member Ramsden Speaks|2026-09-28T06:00:00-04:00:warning",
     "JPY|Monetary Policy Meeting Minutes|2026-09-27T19:50:00-04:00:reminder",
     "JPY|Monetary Policy Meeting Minutes|2026-09-27T19:50:00-04:00:warning",
     "JPY|SPPI y/y|2026-09-27T19:50:00-04:00:reminder",
-    "JPY|SPPI y/y|2026-09-27T19:50:00-04:00:warning"
+    "JPY|SPPI y/y|2026-09-27T19:50:00-04:00:warning",
+    "USD|FOMC Member Bowman Speaks|2026-09-28T08:15:00-04:00:reminder",
+    "USD|FOMC Member Bowman Speaks|2026-09-28T08:15:00-04:00:warning"
   ]
 }
