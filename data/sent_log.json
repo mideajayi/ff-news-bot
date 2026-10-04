@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-03T23:10:25.649062+01:00",
+  "last_run": "2026-10-04T01:42:21.147792+01:00",
   "sent": [
     "EUR|CPI Flash Estimate y/y|2026-10-02T05:00:00-04:00:reminder",
     "EUR|CPI Flash Estimate y/y|2026-10-02T05:00:00-04:00:warning",
@@ -11,18 +11,10 @@
     "EUR|Italian Retail Sales m/m|2026-10-02T04:00:00-04:00:warning",
     "EUR|Spanish Unemployment Change|2026-10-02T03:00:00-04:00:reminder",
     "EUR|Spanish Unemployment Change|2026-10-02T03:00:00-04:00:warning",
-    "JPY|Monetary Base y/y|2026-10-01T19:50:00-04:00:reminder",
-    "JPY|Monetary Base y/y|2026-10-01T19:50:00-04:00:warning",
-    "JPY|Tokyo Core CPI y/y|2026-10-01T19:30:00-04:00:reminder",
-    "JPY|Tokyo Core CPI y/y|2026-10-01T19:30:00-04:00:warning",
-    "JPY|Unemployment Rate|2026-10-01T19:30:00-04:00:reminder",
-    "JPY|Unemployment Rate|2026-10-01T19:30:00-04:00:warning",
     "USD|Average Hourly Earnings m/m|2026-10-02T08:30:00-04:00:reminder",
     "USD|Average Hourly Earnings m/m|2026-10-02T08:30:00-04:00:warning",
     "USD|FOMC Member Goolsbee Speaks|2026-10-02T13:00:00-04:00:reminder",
     "USD|FOMC Member Goolsbee Speaks|2026-10-02T13:00:00-04:00:warning",
-    "USD|FOMC Member Logan Speaks|2026-10-01T19:20:00-04:00:reminder",
-    "USD|FOMC Member Logan Speaks|2026-10-01T19:20:00-04:00:warning",
     "USD|FOMC Member Logan Speaks|2026-10-02T10:00:00-04:00:reminder",
     "USD|FOMC Member Logan Speaks|2026-10-02T10:00:00-04:00:warning",
     "USD|Factory Orders m/m|2026-10-02T10:00:00-04:00:reminder",
@@ -31,7 +23,6 @@
     "USD|Non-Farm Employment Change|2026-10-02T08:30:00-04:00:warning",
     "USD|Unemployment Rate|2026-10-02T08:30:00-04:00:reminder",
     "USD|Unemployment Rate|2026-10-02T08:30:00-04:00:warning",
-    "digest-2026-10-02",
     "digest-2026-10-03"
   ]
 }
