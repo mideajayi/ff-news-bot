@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-15T16:45:33.186035+01:00",
+  "last_run": "2026-10-15T20:27:19.058323+01:00",
   "sent": [
     "AUD|Employment Change|2026-10-14T20:30:00-04:00:reminder",
     "AUD|Employment Change|2026-10-14T20:30:00-04:00:warning",
@@ -111,11 +111,10 @@
     "USD|Core PPI m/m|2026-10-15T08:30:00-04:00:warning",
     "USD|Core Retail Sales m/m|2026-10-15T08:30:00-04:00:reminder",
     "USD|Core Retail Sales m/m|2026-10-15T08:30:00-04:00:warning",
+    "USD|Crude Oil Inventories|2026-10-15T12:00:00-04:00:reminder",
     "USD|Crude Oil Inventories|2026-10-15T12:00:00-04:00:warning",
     "USD|Empire State Manufacturing Index|2026-10-15T08:30:00-04:00:reminder",
     "USD|Empire State Manufacturing Index|2026-10-15T08:30:00-04:00:warning",
-    "USD|FOMC Member Barkin Speaks|2026-10-13T13:00:00-04:00:reminder",
-    "USD|FOMC Member Barkin Speaks|2026-10-13T13:00:00-04:00:warning",
     "USD|FOMC Member Barkin Speaks|2026-10-14T13:30:00-04:00:reminder",
     "USD|FOMC Member Barkin Speaks|2026-10-14T13:30:00-04:00:warning",
     "USD|FOMC Member Bowman Speaks|2026-10-14T05:40:00-04:00:reminder",
