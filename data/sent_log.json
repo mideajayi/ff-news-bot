@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-15T20:27:19.058323+01:00",
+  "last_run": "2026-10-15T23:35:35.847625+01:00",
   "sent": [
     "AUD|Employment Change|2026-10-14T20:30:00-04:00:reminder",
     "AUD|Employment Change|2026-10-14T20:30:00-04:00:warning",
@@ -91,8 +91,10 @@
     "JPY|M2 Money Stock y/y|2026-10-13T19:50:00-04:00:warning",
     "JPY|Revised Industrial Production m/m|2026-10-15T00:30:00-04:00:reminder",
     "JPY|Revised Industrial Production m/m|2026-10-15T00:30:00-04:00:warning",
-    "NZD|Visitor Arrivals m/m|2026-10-13T17:45:00-04:00:reminder",
-    "NZD|Visitor Arrivals m/m|2026-10-13T17:45:00-04:00:warning",
+    "NZD|BusinessNZ Manufacturing Index|2026-10-15T17:30:00-04:00:reminder",
+    "NZD|BusinessNZ Manufacturing Index|2026-10-15T17:30:00-04:00:warning",
+    "NZD|FPI m/m|2026-10-15T17:45:00-04:00:reminder",
+    "NZD|FPI m/m|2026-10-15T17:45:00-04:00:warning",
     "USD|API Weekly Statistical Bulletin|2026-10-14T16:30:00-04:00:reminder",
     "USD|API Weekly Statistical Bulletin|2026-10-14T16:30:00-04:00:warning",
     "USD|Beige Book|2026-10-14T14:00:00-04:00:reminder",
@@ -121,10 +123,10 @@
     "USD|FOMC Member Bowman Speaks|2026-10-14T05:40:00-04:00:warning",
     "USD|FOMC Member Bowman Speaks|2026-10-14T22:55:00-04:00:reminder",
     "USD|FOMC Member Bowman Speaks|2026-10-14T22:55:00-04:00:warning",
-    "USD|FOMC Member Collins Speaks|2026-10-13T16:00:00-04:00:reminder",
-    "USD|FOMC Member Collins Speaks|2026-10-13T16:00:00-04:00:warning",
     "USD|FOMC Member Goolsbee Speaks|2026-10-14T15:00:00-04:00:reminder",
     "USD|FOMC Member Goolsbee Speaks|2026-10-14T15:00:00-04:00:warning",
+    "USD|FOMC Member Hammack Speaks|2026-10-15T16:30:00-04:00:reminder",
+    "USD|FOMC Member Hammack Speaks|2026-10-15T16:30:00-04:00:warning",
     "USD|Natural Gas Storage|2026-10-15T10:30:00-04:00:reminder",
     "USD|Natural Gas Storage|2026-10-15T10:30:00-04:00:warning",
     "USD|PPI m/m|2026-10-15T08:30:00-04:00:reminder",
@@ -134,6 +136,7 @@
     "USD|Retail Sales m/m|2026-10-15T08:30:00-04:00:reminder",
     "USD|Retail Sales m/m|2026-10-15T08:30:00-04:00:warning",
     "USD|Unemployment Claims|2026-10-15T08:30:00-04:00:reminder",
-    "USD|Unemployment Claims|2026-10-15T08:30:00-04:00:warning"
+    "USD|Unemployment Claims|2026-10-15T08:30:00-04:00:warning",
+    "digest-2026-10-15"
   ]
 }
