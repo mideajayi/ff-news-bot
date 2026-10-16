@@ -1,10 +1,8 @@
 {
-  "last_run": "2026-10-15T23:35:35.847625+01:00",
+  "last_run": "2026-10-16T01:42:54.176838+01:00",
   "sent": [
     "AUD|Employment Change|2026-10-14T20:30:00-04:00:reminder",
     "AUD|Employment Change|2026-10-14T20:30:00-04:00:warning",
-    "AUD|MI Leading Index m/m|2026-10-13T19:30:00-04:00:reminder",
-    "AUD|MI Leading Index m/m|2026-10-13T19:30:00-04:00:warning",
     "AUD|RBA Annual Report|2026-10-15T00:30:00-04:00:reminder",
     "AUD|RBA Annual Report|2026-10-15T00:30:00-04:00:warning",
     "AUD|Unemployment Rate|2026-10-14T20:30:00-04:00:reminder",
@@ -87,8 +85,6 @@
     "GBP|Manufacturing Production m/m|2026-10-15T02:00:00-04:00:warning",
     "JPY|Core Machinery Orders m/m|2026-10-14T19:50:00-04:00:reminder",
     "JPY|Core Machinery Orders m/m|2026-10-14T19:50:00-04:00:warning",
-    "JPY|M2 Money Stock y/y|2026-10-13T19:50:00-04:00:reminder",
-    "JPY|M2 Money Stock y/y|2026-10-13T19:50:00-04:00:warning",
     "JPY|Revised Industrial Production m/m|2026-10-15T00:30:00-04:00:reminder",
     "JPY|Revised Industrial Production m/m|2026-10-15T00:30:00-04:00:warning",
     "NZD|BusinessNZ Manufacturing Index|2026-10-15T17:30:00-04:00:reminder",
