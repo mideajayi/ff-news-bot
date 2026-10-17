@@ -1,6 +1,7 @@
 {
-  "last_run": "2026-10-17T22:13:00.014952+01:00",
+  "last_run": "2026-10-18T00:10:22.981974+01:00",
   "sent": [
+    "AUD|RBA Assist Gov Kent Speaks|2026-10-17T20:00:00-04:00:warning",
     "All|IMF Meetings|2026-10-16T10:15:00-04:00:reminder",
     "All|IMF Meetings|2026-10-16T10:15:00-04:00:warning",
     "All|IMF Meetings|2026-10-17T10:15:00-04:00:reminder",
@@ -29,10 +30,6 @@
     "GBP|BOE Gov Bailey Speaks|2026-10-15T22:00:00-04:00:warning",
     "GBP|BOE Gov Bailey Speaks|2026-10-17T02:45:00-04:00:reminder",
     "GBP|BOE Gov Bailey Speaks|2026-10-17T02:45:00-04:00:warning",
-    "NZD|BusinessNZ Manufacturing Index|2026-10-15T17:30:00-04:00:reminder",
-    "NZD|BusinessNZ Manufacturing Index|2026-10-15T17:30:00-04:00:warning",
-    "NZD|FPI m/m|2026-10-15T17:45:00-04:00:reminder",
-    "NZD|FPI m/m|2026-10-15T17:45:00-04:00:warning",
     "USD|Capacity Utilization Rate|2026-10-16T09:15:00-04:00:reminder",
     "USD|Capacity Utilization Rate|2026-10-16T09:15:00-04:00:warning",
     "USD|Fed Chairman Warsh Speaks|2026-10-15T23:30:00-04:00:reminder",
@@ -45,7 +42,6 @@
     "USD|Industrial Production m/m|2026-10-16T09:15:00-04:00:warning",
     "USD|TIC Long-Term Purchases|2026-10-16T16:00:00-04:00:reminder",
     "USD|TIC Long-Term Purchases|2026-10-16T16:00:00-04:00:warning",
-    "digest-2026-10-16",
     "digest-2026-10-17"
   ]
 }
