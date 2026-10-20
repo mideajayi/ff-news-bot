@@ -1,10 +1,8 @@
 {
-  "last_run": "2026-10-20T13:52:09.865015+01:00",
+  "last_run": "2026-10-20T18:45:15.619463+01:00",
   "sent": [
     "AUD|RBA Assist Gov Kent Speaks|2026-10-18T19:05:00-04:00:reminder",
     "AUD|RBA Assist Gov Kent Speaks|2026-10-18T19:05:00-04:00:warning",
-    "All|IMF Meetings|2026-10-18T10:15:00-04:00:reminder",
-    "All|IMF Meetings|2026-10-18T10:15:00-04:00:warning",
     "CAD|BOC Business Outlook Survey|2026-10-19T11:30:00-04:00:reminder",
     "CAD|BOC Business Outlook Survey|2026-10-19T11:30:00-04:00:warning",
     "CAD|CPI m/m|2026-10-19T08:30:00-04:00:reminder",
@@ -49,6 +47,8 @@
     "GBP|Average Earnings Index 3m/y|2026-10-20T02:00:00-04:00:warning",
     "GBP|Claimant Count Change|2026-10-20T02:00:00-04:00:reminder",
     "GBP|Claimant Count Change|2026-10-20T02:00:00-04:00:warning",
+    "GBP|MPC Member Greene Speaks|2026-10-20T13:00:00-04:00:reminder",
+    "GBP|MPC Member Greene Speaks|2026-10-20T13:00:00-04:00:warning",
     "GBP|Rightmove HPI m/m|2026-10-18T19:01:00-04:00:reminder",
     "GBP|Rightmove HPI m/m|2026-10-18T19:01:00-04:00:warning",
     "GBP|Unemployment Rate|2026-10-20T02:00:00-04:00:reminder",
@@ -57,6 +57,8 @@
     "JPY|Tertiary Industry Activity m/m|2026-10-19T00:30:00-04:00:warning",
     "NZD|BusinessNZ Services Index|2026-10-18T17:30:00-04:00:reminder",
     "NZD|BusinessNZ Services Index|2026-10-18T17:30:00-04:00:warning",
+    "NZD|GDT Price Index|2026-10-20T11:19:00-04:00:reminder",
+    "NZD|GDT Price Index|2026-10-20T11:19:00-04:00:warning",
     "NZD|Trade Balance|2026-10-18T17:45:00-04:00:reminder",
     "NZD|Trade Balance|2026-10-18T17:45:00-04:00:warning",
     "USD|ADP Weekly Employment Change|2026-10-20T08:15:00-04:00:reminder",
@@ -66,6 +68,8 @@
     "USD|Housing Starts|2026-10-20T08:30:00-04:00:reminder",
     "USD|Housing Starts|2026-10-20T08:30:00-04:00:warning",
     "USD|NAHB Housing Market Index|2026-10-19T10:00:00-04:00:reminder",
-    "USD|NAHB Housing Market Index|2026-10-19T10:00:00-04:00:warning"
+    "USD|NAHB Housing Market Index|2026-10-19T10:00:00-04:00:warning",
+    "USD|Pending Home Sales m/m|2026-10-20T10:00:00-04:00:reminder",
+    "USD|Pending Home Sales m/m|2026-10-20T10:00:00-04:00:warning"
   ]
 }
