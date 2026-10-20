@@ -1,8 +1,6 @@
 {
-  "last_run": "2026-10-20T00:34:54.800427+01:00",
+  "last_run": "2026-10-20T03:02:57.203965+01:00",
   "sent": [
-    "AUD|RBA Assist Gov Kent Speaks|2026-10-17T20:00:00-04:00:reminder",
-    "AUD|RBA Assist Gov Kent Speaks|2026-10-17T20:00:00-04:00:warning",
     "AUD|RBA Assist Gov Kent Speaks|2026-10-18T19:05:00-04:00:reminder",
     "AUD|RBA Assist Gov Kent Speaks|2026-10-18T19:05:00-04:00:warning",
     "All|IMF Meetings|2026-10-18T10:15:00-04:00:reminder",
@@ -19,6 +17,10 @@
     "CAD|Median CPI y/y|2026-10-19T08:30:00-04:00:warning",
     "CAD|Trimmed CPI y/y|2026-10-19T08:30:00-04:00:reminder",
     "CAD|Trimmed CPI y/y|2026-10-19T08:30:00-04:00:warning",
+    "CNY|1-y Loan Prime Rate|2026-10-19T21:00:00-04:00:reminder",
+    "CNY|1-y Loan Prime Rate|2026-10-19T21:00:00-04:00:warning",
+    "CNY|5-y Loan Prime Rate|2026-10-19T21:00:00-04:00:reminder",
+    "CNY|5-y Loan Prime Rate|2026-10-19T21:00:00-04:00:warning",
     "CNY|Fixed Asset Investment ytd/y|2026-10-18T22:00:00-04:00:reminder",
     "CNY|Fixed Asset Investment ytd/y|2026-10-18T22:00:00-04:00:warning",
     "CNY|GDP q/y|2026-10-18T22:00:00-04:00:reminder",
