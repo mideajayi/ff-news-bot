@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-22T15:50:47.161530+01:00",
+  "last_run": "2026-10-22T20:02:01.888664+01:00",
   "sent": [
     "AUD|RBA Deputy Gov Hauser Speaks|2026-10-20T18:30:00-04:00:reminder",
     "AUD|RBA Deputy Gov Hauser Speaks|2026-10-20T18:30:00-04:00:warning",
@@ -29,8 +29,6 @@
     "GBP|Core CPI y/y|2026-10-21T02:00:00-04:00:warning",
     "GBP|HPI y/y|2026-10-21T04:30:00-04:00:reminder",
     "GBP|HPI y/y|2026-10-21T04:30:00-04:00:warning",
-    "GBP|MPC Member Greene Speaks|2026-10-20T13:00:00-04:00:reminder",
-    "GBP|MPC Member Greene Speaks|2026-10-20T13:00:00-04:00:warning",
     "GBP|PPI Input m/m|2026-10-21T02:00:00-04:00:reminder",
     "GBP|PPI Input m/m|2026-10-21T02:00:00-04:00:warning",
     "GBP|PPI Output m/m|2026-10-21T02:00:00-04:00:reminder",
@@ -45,8 +43,6 @@
     "NZD|CPI q/q|2026-10-21T17:45:00-04:00:warning",
     "NZD|Credit Card Spending y/y|2026-10-20T22:00:00-04:00:reminder",
     "NZD|Credit Card Spending y/y|2026-10-20T22:00:00-04:00:warning",
-    "NZD|GDT Price Index|2026-10-20T11:19:00-04:00:reminder",
-    "NZD|GDT Price Index|2026-10-20T11:19:00-04:00:warning",
     "USD|API Weekly Statistical Bulletin|2026-10-20T16:30:00-04:00:reminder",
     "USD|API Weekly Statistical Bulletin|2026-10-20T16:30:00-04:00:warning",
     "USD|CB Leading Index m/m|2026-10-22T10:00:00-04:00:reminder",
