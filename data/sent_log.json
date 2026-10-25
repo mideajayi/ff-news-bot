@@ -1,20 +1,6 @@
 {
-  "last_run": "2026-10-25T13:22:00.218901+01:00",
+  "last_run": "2026-10-25T17:40:01.926091+01:00",
   "sent": [
-    "CAD|Core Retail Sales m/m|2026-10-23T08:30:00-04:00:reminder",
-    "CAD|Core Retail Sales m/m|2026-10-23T08:30:00-04:00:warning",
-    "CAD|Retail Sales m/m|2026-10-23T08:30:00-04:00:reminder",
-    "CAD|Retail Sales m/m|2026-10-23T08:30:00-04:00:warning",
-    "EUR|Belgian NBB Business Climate|2026-10-23T09:00:00-04:00:reminder",
-    "EUR|Belgian NBB Business Climate|2026-10-23T09:00:00-04:00:warning",
-    "USD|Flash Manufacturing PMI|2026-10-23T09:45:00-04:00:reminder",
-    "USD|Flash Manufacturing PMI|2026-10-23T09:45:00-04:00:warning",
-    "USD|Flash Services PMI|2026-10-23T09:45:00-04:00:reminder",
-    "USD|Flash Services PMI|2026-10-23T09:45:00-04:00:warning",
-    "USD|Revised UoM Consumer Sentiment|2026-10-23T10:00:00-04:00:reminder",
-    "USD|Revised UoM Consumer Sentiment|2026-10-23T10:00:00-04:00:warning",
-    "USD|Revised UoM Inflation Expectations|2026-10-23T10:00:00-04:00:reminder",
-    "USD|Revised UoM Inflation Expectations|2026-10-23T10:00:00-04:00:warning",
     "digest-2026-10-24"
   ]
 }
