@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-06T18:42:19.023250+01:00",
+  "last_run": "2026-11-06T23:25:50.877690+01:00",
   "sent": [
     "AUD|Goods Trade Balance|2026-11-04T19:30:00-05:00:reminder",
     "AUD|Goods Trade Balance|2026-11-04T19:30:00-05:00:warning",
@@ -70,14 +70,19 @@
     "JPY|BOJ Gov Ueda Speaks|2026-11-06T11:00:00-05:00:warning",
     "JPY|Monetary Policy Meeting Minutes|2026-11-04T18:50:00-05:00:reminder",
     "JPY|Monetary Policy Meeting Minutes|2026-11-04T18:50:00-05:00:warning",
+    "NZD|Parliamentary Elections|2026-11-06T16:45:00-05:00:reminder",
+    "NZD|Parliamentary Elections|2026-11-06T16:45:00-05:00:warning",
     "USD|Average Hourly Earnings m/m|2026-11-06T08:30:00-05:00:reminder",
     "USD|Average Hourly Earnings m/m|2026-11-06T08:30:00-05:00:warning",
     "USD|Challenger Job Cuts y/y|2026-11-05T05:30:00-05:00:reminder",
     "USD|Challenger Job Cuts y/y|2026-11-05T05:30:00-05:00:warning",
+    "USD|Consumer Credit m/m|2026-11-06T15:00:00-05:00:reminder",
+    "USD|Consumer Credit m/m|2026-11-06T15:00:00-05:00:warning",
     "USD|FOMC Member Barkin Speaks|2026-11-05T09:10:00-05:00:reminder",
     "USD|FOMC Member Barkin Speaks|2026-11-05T09:10:00-05:00:warning",
     "USD|FOMC Member Bowman Speaks|2026-11-06T12:15:00-05:00:reminder",
     "USD|FOMC Member Bowman Speaks|2026-11-06T12:15:00-05:00:warning",
+    "USD|FOMC Member Daly Speaks|2026-11-06T13:00:00-05:00:reminder",
     "USD|FOMC Member Daly Speaks|2026-11-06T13:00:00-05:00:warning",
     "USD|FOMC Member Hammack Speaks|2026-11-05T08:50:00-05:00:reminder",
     "USD|FOMC Member Hammack Speaks|2026-11-05T08:50:00-05:00:warning",
@@ -101,6 +106,7 @@
     "USD|Unemployment Claims|2026-11-05T08:30:00-05:00:warning",
     "USD|Unemployment Rate|2026-11-06T08:30:00-05:00:reminder",
     "USD|Unemployment Rate|2026-11-06T08:30:00-05:00:warning",
-    "digest-2026-11-05"
+    "digest-2026-11-05",
+    "digest-2026-11-06"
   ]
 }
